@@ -1,0 +1,11 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "9CC8KMD6FT.com.natixis.wealthmanagement.app",
+				"paths": ["*"]
+			}
+		]
+	}
+}

@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.natixis.wealthmanagement.app",
+    "sha256_cert_fingerprints":
+    ["4A:D6:CB:0F:72:ED:3A:2B:0E:3C:4B:F6:F6:56:68:59:66:C4:80:EE:C2:A7:1E:7B:2B:69:D9:88:D7:84:4B:03"]
+  }
+}]
