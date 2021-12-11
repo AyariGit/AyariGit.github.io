@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.natixis.wealthmanagement.app",
+    "package_name": "com.revedex.webview",
     "sha256_cert_fingerprints":
-    ["4A:D6:CB:0F:72:ED:3A:2B:0E:3C:4B:F6:F6:56:68:59:66:C4:80:EE:C2:A7:1E:7B:2B:69:D9:88:D7:84:4B:03"]
+    ["3A:BF:03:2E:0F:E7:00:66:41:5B:BD:3B:B6:A8:92:8C:46:40:EF:13:D9:AE:B5:C8:9E:57:23:00:57:86:17:3B"]
   }
 }]
